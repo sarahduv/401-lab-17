@@ -9,6 +9,12 @@ Heroku:
 Image:
 - https://github.com/sarahduv/401-lab-17/blob/master/assets/image.jpg?raw=true
 
+PR1:
+- https://github.com/sarahduv/401-lab-17/pull/1
+
+JSdocs:
+- https://github.com/sarahduv/401-lab-17/tree/master/docs
+
 ### Requirements
 - Refactor the provided application (app.js) using best practices for modularization, asynchronous file access, and test-ability.
 - Connect the application (app.js) to the server (server.js) and emit messages related to file access. Connect a new application (logger.js) to the server and log all file activity.
