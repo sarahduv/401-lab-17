@@ -37,9 +37,6 @@ Image:
 - logger.js - needs to have a running server to connect to, so that it can hear events
 - app.js to run and have the server hear your events
 
-### Deployment
-- Not required for this assignment
-
 ### Testing
 - Write tests around all of your units
 - Test event handlers (not events themselves)
